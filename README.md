@@ -61,9 +61,3 @@ This project contains SQL scripts and related documentation for setting up and m
    3. `sql/queries/operations.sql`
    4. `sql/triggers/create_triggers.sql`
 
-
-## Useful Links
-
-- [Creating Tables | SQL | 🦒 (giraffeacademy.com)](https://www.giraffeacademy.com/databases/sql/creating-tables/)
-
-- [Database Project: E-commerce Order Management System with SQL | by Karlos | Medium](https://medium.com/@karlos-b/database-project-e-commerce-order-management-system-with-sql-d986b044d92)
