@@ -1,4 +1,4 @@
-# E-commerce SQL Database Project
+![ER diagram](https://github.com/hammoda711/e-commerce-order-management-system-db-sql/assets/66457688/be70aa95-e833-44d1-9dac-3ce08d8c11c1)# E-commerce SQL Database Project
 
 ## Overview
 
@@ -62,4 +62,5 @@ This project contains SQL scripts and related documentation for setting up and m
    4. `sql/triggers/create_triggers.sql`
 
 ## ERDiagram
-![Uploading image.png…]()
+![ER diagram](https://github.com/hammoda711/e-commerce-order-management-system-db-sql/assets/66457688/aa1757e4-a4f6-4802-a134-6986695bbacd)
+
