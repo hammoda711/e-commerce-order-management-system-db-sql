@@ -61,3 +61,5 @@ This project contains SQL scripts and related documentation for setting up and m
    3. `sql/queries/operations.sql`
    4. `sql/triggers/create_triggers.sql`
 
+## ERDiagram
+![Uploading image.png…]()
