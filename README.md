@@ -1,4 +1,4 @@
-![ER diagram](https://github.com/hammoda711/e-commerce-order-management-system-db-sql/assets/66457688/be70aa95-e833-44d1-9dac-3ce08d8c11c1)# E-commerce SQL Database Project
+E-commerce SQL Database Project
 
 ## Overview
 
