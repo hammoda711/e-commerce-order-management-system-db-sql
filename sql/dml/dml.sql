@@ -21,3 +21,12 @@ VALUES
 (3, 3, '2023-03-10'),
 (4, 4, '2023-04-05'),
 (5, 5, '2023-05-20'); 
+
+INSERT INTO order_details (order_id, item_id, qty, order_price)
+VALUES
+    (1, 1, 2, 999),  -- John Smith ordered 2 iPhone X at $999 each
+    (1, 3, 1, 799),  -- John Smith also ordered 1 iPad Pro at $799
+    (2, 2, 1, 899),  -- Jane Doe ordered 1 Galaxy S9 at $899
+    (3, 4, 2, 499),  -- Michael Johnson ordered 2 Pixel 4a at $499 each
+    (4, 5, 1, 1099), -- Emily Wilson ordered 1 MacBook Air at $1099
+    (5, 1, 1, 999);  -- David Brown ordered 1 iPhone X at $999
